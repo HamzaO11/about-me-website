@@ -1,0 +1,33 @@
+/* style.css */
+
+/* Global styles */
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #ffffff;
+  color: #000000;
+  margin: 20px;
+}
+
+/* Heading */
+h1 {
+  color: #001f3f; /* Navy Blue */
+  font-size: 36px;
+  font-family: 'Oswald', sans-serif;
+}
+
+/* Paragraph */
+p {
+  color: #000000; /* Black */
+  font-size: 18px;
+}
+
+/* Accent Button (optional) */
+.button {
+  display: inline-block;
+  background-color: #00ffff; /* Bright Cyan */
+  color: #001f3f; /* Navy Blue text */
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
